@@ -1,0 +1,6 @@
+3. Jelaskan apa yang anda tau tentang Git
+4. Jelaskan apa yang anda tau tentang Docker
+5. Jelaskan apa yang anda tau tentang Kubernetes
+
+3. Git adalah repository file yang berguna sebagai version controller
+4 & 5. Untuk docker dan kubernetes saya belum mengetahu apapun tentang keduanya
